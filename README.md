@@ -29,7 +29,8 @@
 # Code and file presentation
 
 ## Code
-
+Data needs to be downloaded at : https://github.com/CoFiF/Corpus because
+Otherwise we could not upload the files.
 The code folder contains subfolders whose names correspond to the different models used. Simply run the main file in a subfolder to launch the corresponding model.
 
 It is also important to note that the various parameters can be adjusted in the lm_argparsers.py files.
