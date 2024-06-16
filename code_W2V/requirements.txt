@@ -1,0 +1,12 @@
+numpy
+pandas
+chardet
+tqdm
+langdetect
+nltk
+tensorflow
+gensim
+scikit-learn
+xgboost
+yfinance
+scipy<1.13
